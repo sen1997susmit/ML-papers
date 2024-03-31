@@ -1,4 +1,4 @@
-# ML-papers
+# ML Papers of The Week
 
 [Subscribe to our newsletter](https://nlpnews.substack.com/) to get a weekly list of top ML papers in your inbox.
 
